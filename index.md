@@ -6,4 +6,4 @@ layout: default
 
 My name is Jack and I am a software developer at [Babylon-Microfarms](https://www.babylonmicrofarms.com/) and a freelance consultant.
 
-I attended Charlottesville High School, and now I am taking a gap year to work and try to make it on my own without college.
+I attended Charlottesville High School, and now I am taking a gap year to get some software engineering experience under my belt.
