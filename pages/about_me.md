@@ -17,7 +17,7 @@ I use tabs not spaces, unless I'm formating in pep8, I'm an open source enthusia
   - I have worked as a counselor, engineer, and software developer at a small startup. The experiences I gained from working are a large part of my education.
 - I try to share in my learning with any who are interested. I share my code and hacks through Github and Stack forums. I love sharing this passion with friends and colleagues.
 
-For more information, check out [my work experience / resume](/pages/resume.md).
+For more information, check out [my work experience / resume](/pages/resume.html).
 
 ## Hobbies
 
